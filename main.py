@@ -1,5 +1,5 @@
 a = 5
 b = 10
-print(a + b)
-print("Sum:", a + b)
+c = 20
+print("Sum:", a + b + c)
 print("Goodbye")
